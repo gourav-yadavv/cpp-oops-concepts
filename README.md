@@ -17,10 +17,6 @@ Welcome to the C++ OOP Mastery repository! This resource is designed to help you
 3. Use these resources to boost your understanding of C++ OOP and apply the concepts to your own projects.
 4. Feel free to modify and experiment with the code examples to deepen your learning.
 
-## Contributions
-
-Contributions to this repository are highly appreciated! If you have additional notes, relevant images, or code examples that align with the focus on C++ OOP concepts, please consider contributing. Kindly follow the contribution guidelines outlined in the repository.
-
 **Please note that while the notes and images have been collected from various sources, the code examples are original creations.**
 
 Happy coding!
