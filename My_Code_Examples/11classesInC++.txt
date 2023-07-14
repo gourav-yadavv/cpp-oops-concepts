@@ -1,0 +1,20 @@
+We can categorize classes in c++ in three categories based on criteria:
+
+1. Base class with all concrete functions 
+    --- i.e. there is no virtual functions into the class
+    --- body of all the funtions is defined in the class 
+    --- purpose of these type of classes is "Reusability"
+
+2. Base class with all pure virtual functions 
+    --- i.e. there is no concrete function 
+    --- this class will force each and every derived class to override the pure virtual functions of base class
+    --- purpose of these classes if to achieve polymorphism
+    --- such a Base class is called abstract class or we can also say Interface
+
+3. Base class will contain some pure virtual functions as well as some concrete functions
+    --- this is basically to achieve reusability and polymorphism simaltaneously
+    --- this class will also be called abstract but not interface
+
+*In c++ there is no keyword like interface but in Java there is a seperate class called interface having all virtual functions here we are just giving name to the class as Interface
+
+*Runtime polymorphism is achieved using a base class pointer to an object of derived class & overiding is performed here
